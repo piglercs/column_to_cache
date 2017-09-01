@@ -12,7 +12,7 @@ First of all, vmtouch must be installed on each MemSQL leaf node for using MemSQ
 For maintaining SSH connection paramiko is also a must.
 
 ```
-pip instlal paramiko
+pip install paramiko
 ```
 
 ### Configuring
