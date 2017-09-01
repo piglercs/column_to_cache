@@ -1,0 +1,10 @@
+SSH_COMMAND_TIMEOUT=60
+SSH_USER=username
+SSH_KEY=/path/to/ssh-key/key.pem
+AGGREGATOR=memsql_aggregator
+PORT=3306
+DB_USER=dbuser
+DB_PWD=dbpwd
+MEMSQL_PATH=/var/lib/memsql/
+VMTOUCH_PATH=/path/to/vmtouch
+THREADS_PER_HOST=4
